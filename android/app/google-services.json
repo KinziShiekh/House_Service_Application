@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480663601251",
+    "project_id": "neigbourhub",
+    "storage_bucket": "neigbourhub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480663601251:android:61947563e8d6756e9d7856",
+        "android_client_info": {
+          "package_name": "com.example.house_service_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqYGQ5E2IEkdsRMAV9q9QqMxHESqjaE2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
